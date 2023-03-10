@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* //NOTE: 
+vscode error Unknown at rule @tailwindcss(unknownAtRules)
+Solution: Install PostCSS Language Support extension
+}
+*/
+
+@layer base {
+  #__next {
+    @apply min-h-screen flex flex-col;
+  }
+  html,
+  body {
+    @apply min-h-screen bg-gradient-to-t from-light-primary-start to-light-primary-end dark:from-dark-primary-0 dark:via-dark-primary-1 dark:to-dark-primary-2;
+  }
+  input {
+    @apply border-0 rounded px-2 bg-gray-100 dark:bg-dark-primary-0;
+  }
+
+  input[type='number']::-webkit-inner-spin-button,
+  input[type='number']::-webkit-outer-spin-button {
+    -webkit-appearance: inner-spin-button !important;
+  }
+
+  input::placeholder {
+    @apply font-normal;
+  }
+
+  button {
+    @apply border rounded py-2 px-4 font-semibold;
+  }
+  label {
+    @apply text-gray-800 font-lato font-light text-base mb-1 dark:text-white;
+  }
+  h1 {
+    @apply font-semibold text-xl;
+  }
+  h2 {
+    @apply font-semibold text-lg;
+  }
+
+  .error-msg {
+    @apply text-sm text-light-primary-1;
+  }
+
+  th {
+    @apply text-sm;
+  }
+
+  td {
+    @apply align-middle font-semibold p-0 text-left justify-self-start self-center sm:text-center;
+  }
+}
+
+.unselectable {
+  user-drag: none;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}

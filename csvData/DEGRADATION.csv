@@ -1,0 +1,26 @@
+Car;Date;Age;Odo;Cycles;Gross;kWh new;kWh test;Degradation;Degr/cycles;Notes
+2019 MG ZS EV 44.5 kWh;19.12.2021;2;24;80;44,5;42,3;42,3;0,0 %;0,0 %;Probably hidden buffer
+2016 Hyundai Ioniq 28 kWh;01.09.2019;2,5;92;575;30,5;26;25,2;3,1 %;5,4 %;
+2013 Tesla Model S P85 (MF);28.05.2016;1,5;150;429;85;75;72;4,0 %;9,3 %;New battery after 1 year/86k km
+2014 BMW i3 22 kWh;29.02.2020;6;103;1030;22;18,8;16,8;10,6 %;10,3 %;
+2015 VW e-Golf 24 kWh;04.05.2022;7;161;1610;24;20;16,3;18,5 %;11,5 %;Mostly AC charged to 100 %
+2015 VW e-Golf 24 kWh;01.05.2022;7;116;1160;24;20;17;15,0 %;12,9 %;Mostly AC charged to 100 %
+2016 VW e-Golf 24 kWh;27.04.2022;6;48;480;24;20;18,7;6,5 %;13,5 %;Mostly AC charged to 100 %
+2019 Tesla Model 3 LR;12.06.2022;3;165;601;80;73;67;8,2 %;13,7 %;Check based on Scan My Tesla
+2020 Mercedes EQC 400;05.12.2022;2;234;585;90;80;73,3;8,4 %;14,3 %;Mostly DC 40 kW
+2017 Opel Ampera-e;23.05.2022;5;153;510;62;58;53,5;7,8 %;15,2 %;AC charged to 100 %. Some DC
+2013 Tesla Model S P85 (MF);22.08.2021;8;264;754;85;75;65,9;12,1 %;16,1 %;
+2019 Hyundai Ioniq 28 kWh;25.08.2022;3;50;313;30,5;26;24,5;5,8 %;18,5 %;
+2013 Tesla Model S P85 Signature;28.02.2020;7;78;223;85;75;71,5;4,7 %;20,9 %;
+2017 Tesla Model X 100D;10.07.2021;4;99;300;102;92,7;86,7;6,5 %;21,6 %;Check based on Scan My Tesla
+2012 Nissan Leaf 24 kWh;07.03.2021;9;101;1010;24;21;16;23,8 %;23,6 %;
+2015 Kia Soul 27 kWh;04.05.2022;7;111;925;30;26;19,7;24,2 %;26,2 %;Mostly AC charged to 100 %
+2020 Audi e-tron 50;15.09.2022;2;76;304;71;63,9;58,2;8,9 %;29,3 %;DC fast charged a lot
+2015 Kia Soul 27 kWh;15.04.2021;5,5;73;608;30;26;20,9;19,6 %;32,2 %;Mostly AC charged to 100 %
+2019 Tesla Model 3 Performance (MC);13.06.2020;1;59;169;80;73;68,8;5,8 %;34,1 %;
+2019 Tesla Model 3 Performance (MC);14.04.2021;2;80;229;80;73;67;8,2 %;36,0 %;
+2019 Tesla Model 3 LR;19.04.2021;2;80;200;80;73;67,2;7,9 %;39,7 %;
+2015 Kia Soul 27 kWh;14.04.2022;7;100;833;30;26;17;34,6 %;41,5 %;Mostly AC charged to 100 %
+2015 Kia Soul 27 kWh;11.05.2022;6,5;65;542;30;26;20,1;22,7 %;41,9 %;Mostly AC charged to 100 %
+2011 Nissan Leaf 24 kWh;15.01.2019;8;108;1080;24;21;9,6;54,3 %;50,3 %;Used in California
+2011 Nissan Leaf 24 kWh;20.11.2019;8;17;170;24;21;;70,0 %;411,8 %;Check based on 3/12 bars
