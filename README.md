@@ -1,4 +1,4 @@
-## eleco.dev
+# eleco.dev
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`] that I created and deployed through Vercel. 
 
@@ -17,7 +17,7 @@ I designed a rough UI/UX on a whiteboard and built the website using Next.js, Ta
 
 I will continue developing the website, but this is a working version that **you are welcome to have a look at**.
 
-## Getting Started
+## Run the project locally
 
 You will need a .env.local file with at least this entry :
 
